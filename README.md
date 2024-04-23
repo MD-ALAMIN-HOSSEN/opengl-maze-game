@@ -1,1 +1,1 @@
-# opengl-maze-game
+# Opengl-maze-game
